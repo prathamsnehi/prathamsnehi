@@ -6,7 +6,7 @@
   <h3>What am I currently working on:</h3>
   <ul>
     <li>learning native iOS Development (Swift, SwiftUI, and other surrounding Apple APIs)</li>
-    <li>Developing an automatic trader based on market sentiment, with goal to beat S&P (Warren Buffet watch out)</li>
+    <li>developing an automatic trader based on market sentiment, with goal to beat S&P (Warren Buffet watch out)</li>
     <li>definitely not procrastinating (trust me bro)</li>
     <li>leetcode 💀</li>
     <li>looking for as many learning opportunities as I can</li>
